@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pinkie_Pie.png"><SubTexture name="Pinkie_Pie Idle0000" x="0" y="0" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0001" x="1454" y="0" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0002" x="2908" y="0" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0003" x="4362" y="0" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0004" x="5816" y="0" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0005" x="7270" y="0" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0006" x="8724" y="0" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0007" x="0" y="1284" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0008" x="1454" y="1284" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0009" x="2908" y="1284" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Idle0010" x="4362" y="1284" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0000" x="5816" y="1284" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0001" x="7270" y="1284" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0002" x="8724" y="1284" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0003" x="0" y="2568" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0004" x="1454" y="2568" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0005" x="2908" y="2568" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0006" x="4362" y="2568" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0007" x="5816" y="2568" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0008" x="7270" y="2568" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0009" x="8724" y="2568" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Left0010" x="0" y="3852" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0000" x="1454" y="3852" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0001" x="2908" y="3852" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0002" x="4362" y="3852" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0003" x="5816" y="3852" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0004" x="7270" y="3852" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0005" x="8724" y="3852" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0006" x="0" y="5136" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0007" x="1454" y="5136" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0008" x="2908" y="5136" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0009" x="4362" y="5136" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Right0010" x="5816" y="5136" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0000" x="7270" y="5136" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0001" x="8724" y="5136" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0002" x="0" y="6420" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0003" x="1454" y="6420" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0004" x="2908" y="6420" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0005" x="4362" y="6420" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0006" x="5816" y="6420" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0007" x="7270" y="6420" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0008" x="8724" y="6420" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0009" x="0" y="7704" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Down0010" x="1454" y="7704" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0000" x="2908" y="7704" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0001" x="4362" y="7704" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0002" x="5816" y="7704" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0003" x="7270" y="7704" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0004" x="8724" y="7704" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0005" x="0" y="8988" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284"
+/>
+<SubTexture name="Pinkie_Pie Up0006" x="1454" y="8988" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0007" x="2908" y="8988" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0008" x="4362" y="8988" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0009" x="5816" y="8988" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+<SubTexture name="Pinkie_Pie Up0010" x="7270" y="8988" width="1454" height="1284" frameX="0" frameY="0" frameWidth="1454" frameHeight="1284" />
+</TextureAtlas>

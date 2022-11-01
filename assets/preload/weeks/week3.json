@@ -1,0 +1,50 @@
+{
+	"storyName": "Stage Fright",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Weeds",
+			"cheerilee",
+			[
+				191,
+				94,
+				149
+			]
+		],
+		[
+			"Pesticides",
+			"cheerilee",
+			[
+				191,
+				94,
+				149
+			]
+		],
+		[
+			"Curtain Call",
+			"cheerilee",
+			[
+				191,
+				94,
+				149
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

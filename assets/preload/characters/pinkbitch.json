@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				537,
+				397
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pinkie_Pie Idle"
+		},
+		{
+			"offsets": [
+				611,
+				396
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pinkie_Pie Left"
+		},
+		{
+			"offsets": [
+				538,
+				390
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pinkie_Pie Down"
+		},
+		{
+			"offsets": [
+				574,
+				368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pinkie_Pie Up"
+		},
+		{
+			"offsets": [
+				550,
+				394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pinkie_Pie Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pinkie_Pie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pinkbitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		67,
+		139
+	],
+	"camera_position": [
+		30,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

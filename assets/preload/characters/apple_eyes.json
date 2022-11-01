@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "New_Apple_Eyes Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "New_Apple_Eyes Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "New_Apple_Eyes Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "New_Apple_Eyes Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "New_Apple_Eyes Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/apple_eyes",
+	"position": [
+		-620,
+		-290
+	],
+	"healthicon": "apple_eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		183,
+		98
+	],
+	"camera_position": [
+		330,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Friendship Lessons",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Forming Bonds",
+			"twi",
+			[
+				53,
+				58,
+				113
+			]
+		],
+		[
+			"Friendship is Magic",
+			"twi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Experiments",
+			"twi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

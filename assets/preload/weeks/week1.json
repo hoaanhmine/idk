@@ -1,0 +1,50 @@
+{
+	"storyName": "Baking Lessons",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"A Little Sugar",
+			"pinkbitch",
+			[
+				241,
+				67,
+				139
+			]
+		],
+		[
+			"Secret Ingredient",
+			"pinkbitch",
+			[
+				241,
+				67,
+				139
+			]
+		],
+		[
+			"Party For One",
+			"pinkbitch",
+			[
+				241,
+				67,
+				139
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
